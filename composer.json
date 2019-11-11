@@ -1,8 +1,8 @@
 {
     "name": "codelint/qr-code",
-    "description": "Endroid QR Code",
+    "description": "Fork From Endroid QR Code",
     "keywords": ["endroid", "qrcode", "qr", "code", "bundle", "php"],
-    "homepage": "https://github.com/endroid/qr-code",
+    "homepage": "https://github.com/codelint/qr-code",
     "type": "library",
     "license": "MIT",
     "authors": [
